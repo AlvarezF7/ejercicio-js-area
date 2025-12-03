@@ -1,5 +1,6 @@
 body{
-    font-size: larger;
+    font-size: 25px;
     font-family: 'Times New Roman';
-    padding: 1rem;
+    color: blue;
+    padding: 1.5rem;
 }
